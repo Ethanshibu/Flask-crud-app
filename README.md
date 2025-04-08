@@ -35,5 +35,6 @@ flask-todolist/
 | GET | `/delete/<id>` | Delete a task |
 
 ## CREDITS TO
+[josh](https://github.com/Joshwen7947)
 
 
